@@ -1,4 +1,4 @@
-# Academic Project Page Template
+# Project page - Confronting Ambiguity in 6D Object Pose Estimation via Score-Based Diffusion on SE(3)
 This is an academic paper project page template.
 
 
